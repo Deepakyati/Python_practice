@@ -1,0 +1,1 @@
+print("hi Deepak, you are the best and you are going to rock in 2026, it will be your year. Hurraaa!!!")
